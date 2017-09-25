@@ -1,0 +1,4 @@
+﻿  karger_mincut.cpp
+c:\users\warren\documents\visual studio 2017\projects\coursera_algorithms\karger_mincut\karger_mincut.cpp(73): warning C4018: '<': signed/unsigned mismatch
+  karger_mincut.vcxproj -> C:\Users\Warren\documents\visual studio 2017\Projects\coursera_algorithms\Debug\karger_mincut.exe
+  karger_mincut.vcxproj -> C:\Users\Warren\documents\visual studio 2017\Projects\coursera_algorithms\Debug\karger_mincut.pdb (Partial PDB)

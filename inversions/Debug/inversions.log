@@ -1,0 +1,5 @@
+﻿  inversions.cpp
+c:\users\warren\documents\visual studio 2017\projects\coursera_algorithms\inversions\inversions.cpp(55): warning C4018: '<': signed/unsigned mismatch
+c:\users\warren\documents\visual studio 2017\projects\coursera_algorithms\inversions\inversions.cpp(66): warning C4018: '<': signed/unsigned mismatch
+  inversions.vcxproj -> C:\Users\Warren\documents\visual studio 2017\Projects\coursera_algorithms\Debug\inversions.exe
+  inversions.vcxproj -> C:\Users\Warren\documents\visual studio 2017\Projects\coursera_algorithms\Debug\inversions.pdb (Partial PDB)
