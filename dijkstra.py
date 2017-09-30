@@ -3,9 +3,7 @@ NUM_VERT = 200
 def read_file():
 	"""
 	Returns a dict (adjacency list) for a directed, weighted graph.
-	Example: {'1': {'adj_nodes': [(1, 36)], 'is_explored': False}, ...}
-	The boolean is used to indicate whether a node is in set X vs. V-X,
-	where V is the set of all vertices.
+	Example: {'1': [{'head': 1, 'weight': 36},...], ...}
 	"""
 	graph = {}
 	with open('data/dijkstraData.txt', 'r') as f:
