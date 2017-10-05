@@ -77,6 +77,7 @@ def relabel(graph):
 	return new_graph
 
 def scc():
+	print(len(leader))
 	counts = {}
 	for key in leader.keys():
 		if leader[key] in counts:
